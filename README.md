@@ -6,5 +6,5 @@ Don't Get Retired is an RPG game written in C++ for Object Oriented Program fina
 
 # Program Run Example
 <p align="center">
-  <a href="http://www.giphy.com/gifs/VGcazZ0cMvrsNtGZum"><img src="http://www.giphy.com/gifs/VGcazZ0cMvrsNtGZum.gif" title="menu"/></a>
+  <img src="https://github.com/bbkbbbk/DontgetRetired/blob/master/demo/menu.gif" title="menu"/>
 </p>
