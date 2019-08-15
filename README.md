@@ -20,4 +20,4 @@ Don't Get Retired is an RPG game written in C++ for Object Oriented Program fina
 </div>
 
  # See a complete gameplay walkthrough
- https://youtu.be/TWoy7hQ9uaA
+ - https://youtu.be/TWoy7hQ9uaA
