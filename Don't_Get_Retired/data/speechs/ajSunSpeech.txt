@@ -1,0 +1,4 @@
+Hello I am ajSun.
+I am taking care of Introduction to Logic course.
+Student should know Demorgan's Law.
+It is very important!

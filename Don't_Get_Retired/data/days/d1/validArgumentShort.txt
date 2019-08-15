@@ -1,0 +1,4 @@
+"All birds can fly and penguins cannot fly."
+"Therefore, penguins are not birds."
+If you think this is a valid argument go to cafeteria and buy me a drink!
+Otherwise buy me a lunch...

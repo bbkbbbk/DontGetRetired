@@ -1,0 +1,12 @@
+Hi, I am Ajarn Sun.
+Welcome to Introduction to Logic class.
+Logic is the study of reasoning and analysing arguments.
+An argument is said to be valid if it's impossible that all the premises of the argument are true but its conclusion is false.
+For example, all men are mortal.
+Socrates is a man.
+Therefore, Socrate is mortal and all of this is a valid argument.	
+I will assume that you get the idea, so here I will give you a test!
+"All birds can fly and penguins cannot fly."
+"Therefore, penguins are not birds."
+If you think this is a valid argument go to cafeteria and buy me a drink!
+Otherwise buy me a lunch...

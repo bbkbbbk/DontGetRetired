@@ -1,0 +1,5 @@
+Hello I am ajKo.
+I am taking care of Digital Circuit class.
+When you build a circuit and there is an error.
+Remember...
+It's the beauty of hardware.
